@@ -27,6 +27,11 @@
             <artifactId>maven-surefire-report-plugin</artifactId>
             <version>2.20</version>
         </dependency>
+        <dependency>
+            <groupId>org.jetbrains</groupId>
+            <artifactId>annotations-java5</artifactId>
+            <version>RELEASE</version>
+        </dependency>
     </dependencies>
     <reporting>
         <plugins>
